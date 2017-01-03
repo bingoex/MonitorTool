@@ -1,2 +1,3 @@
 # MonitorTool
-a python script that monitor the linux system
+a script that report the linux system parameters
+
